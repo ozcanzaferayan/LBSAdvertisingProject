@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApplication3.QuadTreeTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="QuadTreeTest" Width="1000" Height="900" Name="myWindow" MouseDown="myCanvas_MouseDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="800"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Name="myListBox" VerticalAlignment="Top" Height="800"></ListBox>
+        <Canvas Grid.Column="1" HorizontalAlignment="Left" Width="800" Height="800" Name="myCanvas" MouseDown="myCanvas_MouseDown"/>
+        
+    </Grid>
+</Window>

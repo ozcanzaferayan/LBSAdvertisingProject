@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<open>1</open>
+<visibility>1</visibility>
+<description><![CDATA[]]></description>
+<name><![CDATA[06 04 2012 10:00]]></name>
+<atom:author><atom:name><![CDATA[Android'de My Tracks ile oluşturulmuştur.]]></atom:name></atom:author>
+<Style id="track">
+<LineStyle><color>7f0000ff</color><width>4</width></LineStyle>
+<IconStyle>
+<scale>1.3</scale>
+<Icon><href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href></Icon>
+</IconStyle>
+</Style>
+<Style id="start"><IconStyle>
+<scale>1.3</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle></Style>
+<Style id="end"><IconStyle>
+<scale>1.3</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+</IconStyle></Style>
+<Style id="statistics"><IconStyle>
+<scale>1.3</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon>
+<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+</IconStyle></Style>
+<Style id="waypoint"><IconStyle>
+<scale>1.3</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href></Icon>
+<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+</IconStyle></Style>
+<Schema id="schema">
+<gx:SimpleArrayField name="power" type="int">
+<displayName><![CDATA[Güç (W)]]></displayName>
+</gx:SimpleArrayField>
+<gx:SimpleArrayField name="cadence" type="int">
+<displayName><![CDATA[Kadans (rpm)]]></displayName>
+</gx:SimpleArrayField>
+<gx:SimpleArrayField name="heart_rate" type="int">
+<displayName><![CDATA[Kalp atış hızı (bmp)]]></displayName>
+</gx:SimpleArrayField>
+<gx:SimpleArrayField name="battery_level" type="int">
+<displayName><![CDATA[Pil seviyesi (%)]]></displayName>
+</gx:SimpleArrayField>
+</Schema>
+<Placemark>
+<description><![CDATA[]]></description>
+<name><![CDATA[06 04 2012 10:00 (Başlangıç)]]></name>
+<styleUrl>#start</styleUrl>
+<Point>
+<coordinates>26.390242,40.09358,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="tour">
+<description><![CDATA[]]></description>
+<name><![CDATA[06 04 2012 10:00]]></name>
+<styleUrl>#track</styleUrl>
+<gx:MultiTrack>
+<altitudeMode>absolute</altitudeMode>
+<gx:interpolate>1</gx:interpolate>
+<gx:Track>
+<when>2012-04-07T07:01:39.048Z</when>
+<gx:coord>26.390242 40.09358 0.0</gx:coord>
+<when>2012-04-07T07:01:40.048Z</when>
+<gx:coord>26.390183 40.093683 11.0</gx:coord>
+<when>2012-04-07T07:01:40.048Z</when>
+<gx:coord>26.390183 40.093683 11.0</gx:coord>
+<when>2012-04-07T07:01:42.048Z</when>
+<gx:coord>26.390183 40.093683 11.0</gx:coord>
+<when>2012-04-07T07:01:43.048Z</when>
+<gx:coord>26.390167 40.093796 21.0</gx:coord>
+<when>2012-04-07T07:01:43.048Z</when>
+<gx:coord>26.390167 40.093796 21.0</gx:coord>
+<when>2012-04-07T07:01:47.048Z</when>
+<gx:coord>26.390167 40.093796 21.0</gx:coord>
+<when>2012-04-07T07:01:48.048Z</when>
+<gx:coord>26.390117 40.093825 48.0</gx:coord>
+<when>2012-04-07T07:01:48.048Z</when>
+<gx:coord>26.390117 40.093825 48.0</gx:coord>
+<when>2012-04-07T07:01:49.048Z</when>
+<gx:coord>26.390117 40.093825 48.0</gx:coord>
+<when>2012-04-07T07:02:04.048Z</when>
+<gx:coord>26.390056 40.093821 67.0</gx:coord>
+<when>2012-04-07T07:02:59.048Z</when>
+<gx:coord>26.390014 40.093787 68.0</gx:coord>
+<when>2012-04-07T07:03:48.048Z</when>
+<gx:coord>26.390022 40.093838 67.0</gx:coord>
+<when>2012-04-07T07:03:50.048Z</when>
+<gx:coord>26.390094 40.093885 67.0</gx:coord>
+<when>2012-04-07T07:03:52.048Z</when>
+<gx:coord>26.390146 40.093921 67.0</gx:coord>
+<when>2012-04-07T07:03:55.048Z</when>
+<gx:coord>26.390203 40.093949 67.0</gx:coord>
+<when>2012-04-07T07:03:58.048Z</when>
+<gx:coord>26.390255 40.09397 67.0</gx:coord>
+<when>2012-04-07T07:04:02.048Z</when>
+<gx:coord>26.390328 40.093945 67.0</gx:coord>
+<when>2012-04-07T07:04:05.048Z</when>
+<gx:coord>26.390373 40.093891 67.0</gx:coord>
+<when>2012-04-07T07:04:07.048Z</when>
+<gx:coord>26.390387 40.093847 67.0</gx:coord>
+<when>2012-04-07T07:04:09.048Z</when>
+<gx:coord>26.390382 40.093794 67.0</gx:coord>
+<when>2012-04-07T07:04:11.048Z</when>
+<gx:coord>26.390365 40.09374 66.0</gx:coord>
+<when>2012-04-07T07:04:13.048Z</when>
+<gx:coord>26.390353 40.09367 66.0</gx:coord>
+<when>2012-04-07T07:04:15.048Z</when>
+<gx:coord>26.390349 40.093596 66.0</gx:coord>
+<when>2012-04-07T07:04:17.048Z</when>
+<gx:coord>26.390349 40.093527 66.0</gx:coord>
+<when>2012-04-07T07:04:19.048Z</when>
+<gx:coord>26.390362 40.093473 66.0</gx:coord>
+<when>2012-04-07T07:04:22.048Z</when>
+<gx:coord>26.390414 40.093432 66.0</gx:coord>
+<when>2012-04-07T07:04:24.048Z</when>
+<gx:coord>26.390489 40.093441 66.0</gx:coord>
+<when>2012-04-07T07:04:25.048Z</when>
+<gx:coord>26.390546 40.093462 65.0</gx:coord>
+<when>2012-04-07T07:04:26.048Z</when>
+<gx:coord>26.390604 40.093489 65.0</gx:coord>
+<when>2012-04-07T07:04:27.048Z</when>
+<gx:coord>26.390663 40.09352 64.0</gx:coord>
+<when>2012-04-07T07:04:28.048Z</when>
+<gx:coord>26.390719 40.093559 64.0</gx:coord>
+<when>2012-04-07T07:04:29.048Z</when>
+<gx:coord>26.390772 40.093596 64.0</gx:coord>
+<when>2012-04-07T07:04:30.048Z</when>
+<gx:coord>26.390823 40.093634 64.0</gx:coord>
+<when>2012-04-07T07:04:31.048Z</when>
+<gx:coord>26.390872 40.093671 64.0</gx:coord>
+<when>2012-04-07T07:04:32.048Z</when>
+<gx:coord>26.390945 40.093719 64.0</gx:coord>
+<when>2012-04-07T07:04:33.048Z</when>
+<gx:coord>26.391028 40.093769 63.0</gx:coord>
+<when>2012-04-07T07:04:34.048Z</when>
+<gx:coord>26.391114 40.093849 63.0</gx:coord>
+<when>2012-04-07T07:04:35.048Z</when>
+<gx:coord>26.391193 40.093924 63.0</gx:coord>
+<when>2012-04-07T07:04:36.048Z</when>
+<gx:coord>26.391273 40.094005 63.0</gx:coord>
+<when>2012-04-07T07:04:37.048Z</when>
+<gx:coord>26.391354 40.09408 62.0</gx:coord>
+<when>2012-04-07T07:04:38.048Z</when>
+<gx:coord>26.391435 40.094161 62.0</gx:coord>
+<when>2012-04-07T07:04:39.048Z</when>
+<gx:coord>26.39151 40.094246 62.0</gx:coord>
+<when>2012-04-07T07:04:40.048Z</when>
+<gx:coord>26.39158 40.094331 62.0</gx:coord>
+<when>2012-04-07T07:04:41.048Z</when>
+<gx:coord>26.391645 40.094414 62.0</gx:coord>
+<when>2012-04-07T07:04:42.048Z</when>
+<gx:coord>26.391716 40.094486 62.0</gx:coord>
+<when>2012-04-07T07:04:43.048Z</when>
+<gx:coord>26.391789 40.094553 61.0</gx:coord>
+<when>2012-04-07T07:04:44.048Z</when>
+<gx:coord>26.39186 40.094619 61.0</gx:coord>
+<when>2012-04-07T07:04:45.048Z</when>
+<gx:coord>26.391932 40.09468 61.0</gx:coord>
+<when>2012-04-07T07:04:46.048Z</when>
+<gx:coord>26.392003 40.094739 62.0</gx:coord>
+<when>2012-04-07T07:04:47.048Z</when>
+<gx:coord>26.392076 40.094798 62.0</gx:coord>
+<when>2012-04-07T07:04:48.048Z</when>
+<gx:coord>26.392147 40.094856 62.0</gx:coord>
+<when>2012-04-07T07:04:49.048Z</when>
+<gx:coord>26.39222 40.094915 62.0</gx:coord>
+<when>2012-04-07T07:04:50.048Z</when>
+<gx:coord>26.392291 40.094974 62.0</gx:coord>
+<when>2012-04-07T07:04:51.048Z</when>
+<gx:coord>26.392364 40.095032 62.0</gx:coord>
+<when>2012-04-07T07:04:52.048Z</when>
+<gx:coord>26.392437 40.095091 62.0</gx:coord>
+<when>2012-04-07T07:04:53.048Z</when>
+<gx:coord>26.392508 40.09515 62.0</gx:coord>
+<when>2012-04-07T07:04:54.048Z</when>
+<gx:coord>26.392581 40.095208 62.0</gx:coord>
+<when>2012-04-07T07:04:55.048Z</when>
+<gx:coord>26.392656 40.095265 62.0</gx:coord>
+<when>2012-04-07T07:04:56.048Z</when>
+<gx:coord>26.39273 40.095321 62.0</gx:coord>
+<when>2012-04-07T07:04:57.048Z</when>
+<gx:coord>26.392806 40.095376 62.0</gx:coord>
+<when>2012-04-07T07:04:58.048Z</when>
+<gx:coord>26.392883 40.095429 62.0</gx:coord>
+<when>2012-04-07T07:04:59.048Z</when>
+<gx:coord>26.392959 40.095479 62.0</gx:coord>
+<when>2012-04-07T07:05:00.048Z</when>
+<gx:coord>26.393034 40.09553 62.0</gx:coord>
+<when>2012-04-07T07:05:01.048Z</when>
+<gx:coord>26.393108 40.09558 62.0</gx:coord>
+<when>2012-04-07T07:05:02.048Z</when>
+<gx:coord>26.393184 40.095634 62.0</gx:coord>
+<when>2012-04-07T07:05:03.048Z</when>
+<gx:coord>26.39326 40.095689 62.0</gx:coord>
+<when>2012-04-07T07:05:04.048Z</when>
+<gx:coord>26.393335 40.095745 62.0</gx:coord>
+<when>2012-04-07T07:05:05.048Z</when>
+<gx:coord>26.393412 40.095801 62.0</gx:coord>
+<when>2012-04-07T07:05:06.048Z</when>
+<gx:coord>26.39349 40.095858 62.0</gx:coord>
+<when>2012-04-07T07:05:07.048Z</when>
+<gx:coord>26.393568 40.095917 62.0</gx:coord>
+<when>2012-04-07T07:05:08.048Z</when>
+<gx:coord>26.393645 40.095976 62.0</gx:coord>
+<when>2012-04-07T07:05:09.048Z</when>
+<gx:coord>26.393723 40.096035 62.0</gx:coord>
+<when>2012-04-07T07:05:10.048Z</when>
+<gx:coord>26.3938 40.096096 62.0</gx:coord>
+<when>2012-04-07T07:05:11.048Z</when>
+<gx:coord>26.393877 40.096157 62.0</gx:coord>
+<when>2012-04-07T07:05:12.048Z</when>
+<gx:coord>26.393955 40.096219 62.0</gx:coord>
+<when>2012-04-07T07:05:13.048Z</when>
+<gx:coord>26.394034 40.096281 62.0</gx:coord>
+<when>2012-04-07T07:05:14.048Z</when>
+<gx:coord>26.394113 40.096344 62.0</gx:coord>
+<when>2012-04-07T07:05:15.048Z</when>
+<gx:coord>26.394193 40.096407 62.0</gx:coord>
+<when>2012-04-07T07:05:16.048Z</when>
+<gx:coord>26.394272 40.09647 62.0</gx:coord>
+<when>2012-04-07T07:05:17.048Z</when>
+<gx:coord>26.394352 40.096534 62.0</gx:coord>
+<when>2012-04-07T07:05:18.048Z</when>
+<gx:coord>26.394432 40.096599 61.0</gx:coord>
+<when>2012-04-07T07:05:19.048Z</when>
+<gx:coord>26.394511 40.096663 61.0</gx:coord>
+<when>2012-04-07T07:05:20.048Z</when>
+<gx:coord>26.394591 40.096727 61.0</gx:coord>
+<when>2012-04-07T07:05:21.048Z</when>
+<gx:coord>26.394669 40.096794 61.0</gx:coord>
+<when>2012-04-07T07:05:22.048Z</when>
+<gx:coord>26.394748 40.09686 62.0</gx:coord>
+<when>2012-04-07T07:05:23.048Z</when>
+<gx:coord>26.394827 40.096927 62.0</gx:coord>
+<when>2012-04-07T07:05:24.048Z</when>
+<gx:coord>26.394906 40.096994 62.0</gx:coord>
+<when>2012-04-07T07:05:25.048Z</when>
+<gx:coord>26.394982 40.097062 62.0</gx:coord>
+<when>2012-04-07T07:05:26.048Z</when>
+<gx:coord>26.395056 40.09713 61.0</gx:coord>
+<when>2012-04-07T07:05:27.048Z</when>
+<gx:coord>26.395129 40.097199 61.0</gx:coord>
+<when>2012-04-07T07:05:28.048Z</when>
+<gx:coord>26.395199 40.097271 61.0</gx:coord>
+<when>2012-04-07T07:05:29.048Z</when>
+<gx:coord>26.395268 40.097343 61.0</gx:coord>
+<when>2012-04-07T07:05:30.048Z</when>
+<gx:coord>26.395337 40.097414 61.0</gx:coord>
+<when>2012-04-07T07:05:31.048Z</when>
+<gx:coord>26.3954 40.097487 61.0</gx:coord>
+<when>2012-04-07T07:05:32.048Z</when>
+<gx:coord>26.395463 40.097561 61.0</gx:coord>
+<when>2012-04-07T07:05:33.048Z</when>
+<gx:coord>26.395528 40.097634 61.0</gx:coord>
+<when>2012-04-07T07:05:34.048Z</when>
+<gx:coord>26.395593 40.097707 61.0</gx:coord>
+<when>2012-04-07T07:05:35.048Z</when>
+<gx:coord>26.395659 40.097781 61.0</gx:coord>
+<when>2012-04-07T07:05:36.048Z</when>
+<gx:coord>26.395725 40.097854 61.0</gx:coord>
+<when>2012-04-07T07:05:37.048Z</when>
+<gx:coord>26.395791 40.097928 61.0</gx:coord>
+<when>2012-04-07T07:05:38.048Z</when>
+<gx:coord>26.39585 40.098007 61.0</gx:coord>
+<when>2012-04-07T07:05:39.048Z</when>
+<gx:coord>26.395901 40.098093 61.0</gx:coord>
+<when>2012-04-07T07:05:40.048Z</when>
+<gx:coord>26.395951 40.098181 61.0</gx:coord>
+<when>2012-04-07T07:05:41.048Z</when>
+<gx:coord>26.396 40.098271 61.0</gx:coord>
+<when>2012-04-07T07:05:42.048Z</when>
+<gx:coord>26.396049 40.098363 61.0</gx:coord>
+<when>2012-04-07T07:05:43.048Z</when>
+<gx:coord>26.396103 40.098459 61.0</gx:coord>
+<when>2012-04-07T07:05:44.048Z</when>
+<gx:coord>26.396162 40.098558 61.0</gx:coord>
+<when>2012-04-07T07:05:45.048Z</when>
+<gx:coord>26.396223 40.098661 61.0</gx:coord>
+<when>2012-04-07T07:05:46.048Z</when>
+<gx:coord>26.396286 40.098763 61.0</gx:coord>
+<when>2012-04-07T07:05:47.048Z</when>
+<gx:coord>26.396349 40.098866 61.0</gx:coord>
+<when>2012-04-07T07:05:48.048Z</when>
+<gx:coord>26.396419 40.098972 61.0</gx:coord>
+<when>2012-04-07T07:05:49.048Z</when>
+<gx:coord>26.39649 40.099081 61.0</gx:coord>
+<when>2012-04-07T07:05:50.048Z</when>
+<gx:coord>26.396565 40.099193 60.0</gx:coord>
+<when>2012-04-07T07:05:51.048Z</when>
+<gx:coord>26.39664 40.099306 60.0</gx:coord>
+<when>2012-04-07T07:05:52.048Z</when>
+<gx:coord>26.396715 40.099416 60.0</gx:coord>
+<when>2012-04-07T07:05:53.048Z</when>
+<gx:coord>26.396789 40.099523 61.0</gx:coord>
+<when>2012-04-07T07:05:54.048Z</when>
+<gx:coord>26.39686 40.099623 61.0</gx:coord>
+<when>2012-04-07T07:05:55.048Z</when>
+<gx:coord>26.396926 40.099716 61.0</gx:coord>
+<when>2012-04-07T07:05:56.048Z</when>
+<gx:coord>26.396988 40.099796 61.0</gx:coord>
+<when>2012-04-07T07:05:57.048Z</when>
+<gx:coord>26.397028 40.099855 61.0</gx:coord>
+<when>2012-04-07T07:05:58.048Z</when>
+<gx:coord>26.397063 40.099903 61.0</gx:coord>
+<when>2012-04-07T07:05:58.048Z</when>
+<gx:coord>26.397063 40.099903 61.0</gx:coord>
+<when>2012-04-07T07:06:08.048Z</when>
+<gx:coord>26.397063 40.099903 61.0</gx:coord>
+<when>2012-04-07T07:06:09.048Z</when>
+<gx:coord>26.397108 40.099966 61.0</gx:coord>
+<when>2012-04-07T07:06:09.048Z</when>
+<gx:coord>26.397108 40.099966 61.0</gx:coord>
+<when>2012-04-07T07:06:51.048Z</when>
+<gx:coord>26.397108 40.099966 61.0</gx:coord>
+<when>2012-04-07T07:06:54.048Z</when>
+<gx:coord>26.397157 40.100043 60.0</gx:coord>
+<when>2012-04-07T07:06:55.048Z</when>
+<gx:coord>26.397191 40.100099 60.0</gx:coord>
+<when>2012-04-07T07:06:56.048Z</when>
+<gx:coord>26.397223 40.100167 60.0</gx:coord>
+<when>2012-04-07T07:06:57.048Z</when>
+<gx:coord>26.397266 40.100242 60.0</gx:coord>
+<when>2012-04-07T07:06:58.048Z</when>
+<gx:coord>26.397314 40.10032 60.0</gx:coord>
+<when>2012-04-07T07:06:59.048Z</when>
+<gx:coord>26.39737 40.100404 59.0</gx:coord>
+<when>2012-04-07T07:07:00.048Z</when>
+<gx:coord>26.397429 40.100495 59.0</gx:coord>
+<when>2012-04-07T07:07:01.048Z</when>
+<gx:coord>26.397491 40.100591 59.0</gx:coord>
+<when>2012-04-07T07:07:02.048Z</when>
+<gx:coord>26.397569 40.1007 59.0</gx:coord>
+<when>2012-04-07T07:07:03.048Z</when>
+<gx:coord>26.397646 40.100806 59.0</gx:coord>
+<when>2012-04-07T07:07:04.048Z</when>
+<gx:coord>26.39772 40.100911 60.0</gx:coord>
+<when>2012-04-07T07:07:05.048Z</when>
+<gx:coord>26.397793 40.101016 60.0</gx:coord>
+<when>2012-04-07T07:07:06.048Z</when>
+<gx:coord>26.397869 40.101122 60.0</gx:coord>
+<when>2012-04-07T07:07:07.048Z</when>
+<gx:coord>26.397945 40.101227 60.0</gx:coord>
+<when>2012-04-07T07:07:08.048Z</when>
+<gx:coord>26.398024 40.101332 60.0</gx:coord>
+<when>2012-04-07T07:07:09.048Z</when>
+<gx:coord>26.398106 40.101435 60.0</gx:coord>
+<when>2012-04-07T07:07:10.048Z</when>
+<gx:coord>26.398187 40.101539 60.0</gx:coord>
+<when>2012-04-07T07:07:11.048Z</when>
+<gx:coord>26.398272 40.101642 60.0</gx:coord>
+<when>2012-04-07T07:07:12.048Z</when>
+<gx:coord>26.398357 40.101745 60.0</gx:coord>
+<when>2012-04-07T07:07:13.048Z</when>
+<gx:coord>26.398442 40.101849 60.0</gx:coord>
+<when>2012-04-07T07:07:14.048Z</when>
+<gx:coord>26.39853 40.101951 60.0</gx:coord>
+<when>2012-04-07T07:07:15.048Z</when>
+<gx:coord>26.398625 40.102052 60.0</gx:coord>
+<when>2012-04-07T07:07:16.048Z</when>
+<gx:coord>26.398723 40.102153 60.0</gx:coord>
+<when>2012-04-07T07:07:17.048Z</when>
+<gx:coord>26.39882 40.102255 60.0</gx:coord>
+<when>2012-04-07T07:07:18.048Z</when>
+<gx:coord>26.398919 40.102356 60.0</gx:coord>
+<when>2012-04-07T07:07:19.048Z</when>
+<gx:coord>26.399018 40.102457 60.0</gx:coord>
+<when>2012-04-07T07:07:20.048Z</when>
+<gx:coord>26.399116 40.102559 60.0</gx:coord>
+<when>2012-04-07T07:07:21.048Z</when>
+<gx:coord>26.399213 40.102662 60.0</gx:coord>
+<when>2012-04-07T07:07:22.048Z</when>
+<gx:coord>26.399312 40.102767 60.0</gx:coord>
+<when>2012-04-07T07:07:23.048Z</when>
+<gx:coord>26.399411 40.102874 60.0</gx:coord>
+<when>2012-04-07T07:07:24.048Z</when>
+<gx:coord>26.399512 40.102982 60.0</gx:coord>
+<when>2012-04-07T07:07:25.048Z</when>
+<gx:coord>26.399613 40.103091 59.0</gx:coord>
+<when>2012-04-07T07:07:26.048Z</when>
+<gx:coord>26.399716 40.103201 59.0</gx:coord>
+<when>2012-04-07T07:07:27.048Z</when>
+<gx:coord>26.399821 40.103311 59.0</gx:coord>
+<when>2012-04-07T07:07:28.048Z</when>
+<gx:coord>26.399926 40.103423 58.0</gx:coord>
+<when>2012-04-07T07:07:29.048Z</when>
+<gx:coord>26.40003 40.103536 58.0</gx:coord>
+<when>2012-04-07T07:07:30.048Z</when>
+<gx:coord>26.400137 40.103651 58.0</gx:coord>
+<when>2012-04-07T07:07:31.048Z</when>
+<gx:coord>26.400243 40.103767 57.0</gx:coord>
+<when>2012-04-07T07:07:32.048Z</when>
+<gx:coord>26.400348 40.103886 57.0</gx:coord>
+<when>2012-04-07T07:07:33.048Z</when>
+<gx:coord>26.400454 40.104008 57.0</gx:coord>
+<when>2012-04-07T07:07:34.048Z</when>
+<gx:coord>26.400559 40.104131 56.0</gx:coord>
+<when>2012-04-07T07:07:35.048Z</when>
+<gx:coord>26.400664 40.104255 56.0</gx:coord>
+<when>2012-04-07T07:07:36.048Z</when>
+<gx:coord>26.400769 40.104381 56.0</gx:coord>
+<when>2012-04-07T07:07:37.048Z</when>
+<gx:coord>26.400868 40.104499 56.0</gx:coord>
+<when>2012-04-07T07:07:38.048Z</when>
+<gx:coord>26.400967 40.104617 56.0</gx:coord>
+<when>2012-04-07T07:07:39.048Z</when>
+<gx:coord>26.401066 40.104735 56.0</gx:coord>
+<when>2012-04-07T07:07:40.048Z</when>
+<gx:coord>26.401165 40.104853 56.0</gx:coord>
+<when>2012-04-07T07:07:41.048Z</when>
+<gx:coord>26.401264 40.104972 56.0</gx:coord>
+<when>2012-04-07T07:07:46.048Z</when>
+<gx:coord>26.40166 40.105444 56.0</gx:coord>
+<when>2012-04-07T07:07:46.048Z</when>
+<gx:coord>26.40166 40.105444 56.0</gx:coord>
+<when>2012-04-07T07:08:11.048Z</when>
+<gx:coord>26.40166 40.105444 56.0</gx:coord>
+<when>2012-04-07T07:08:12.048Z</when>
+<gx:coord>26.401791 40.105643 56.0</gx:coord>
+<when>2012-04-07T07:08:16.048Z</when>
+<gx:coord>26.402091 40.105898 57.0</gx:coord>
+<when>2012-04-07T07:08:17.048Z</when>
+<gx:coord>26.402182 40.10598 58.0</gx:coord>
+<when>2012-04-07T07:08:18.048Z</when>
+<gx:coord>26.402274 40.106064 60.0</gx:coord>
+<when>2012-04-07T07:08:19.048Z</when>
+<gx:coord>26.402365 40.106149 61.0</gx:coord>
+<when>2012-04-07T07:08:20.048Z</when>
+<gx:coord>26.402451 40.106233 62.0</gx:coord>
+<when>2012-04-07T07:08:21.048Z</when>
+<gx:coord>26.402534 40.106316 62.0</gx:coord>
+<when>2012-04-07T07:08:22.048Z</when>
+<gx:coord>26.402614 40.106402 63.0</gx:coord>
+<when>2012-04-07T07:08:23.048Z</when>
+<gx:coord>26.402693 40.106489 64.0</gx:coord>
+<when>2012-04-07T07:08:24.048Z</when>
+<gx:coord>26.402781 40.106612 64.0</gx:coord>
+<when>2012-04-07T07:08:25.048Z</when>
+<gx:coord>26.402868 40.10674 65.0</gx:coord>
+<when>2012-04-07T07:08:26.048Z</when>
+<gx:coord>26.402955 40.10687 65.0</gx:coord>
+<when>2012-04-07T07:08:27.048Z</when>
+<gx:coord>26.40304 40.107008 65.0</gx:coord>
+<when>2012-04-07T07:08:28.048Z</when>
+<gx:coord>26.403127 40.107154 66.0</gx:coord>
+<when>2012-04-07T07:08:29.048Z</when>
+<gx:coord>26.403228 40.107311 67.0</gx:coord>
+<when>2012-04-07T07:08:30.048Z</when>
+<gx:coord>26.403339 40.107476 68.0</gx:coord>
+<when>2012-04-07T07:08:31.048Z</when>
+<gx:coord>26.403442 40.107636 69.0</gx:coord>
+<when>2012-04-07T07:08:32.048Z</when>
+<gx:coord>26.403538 40.107781 70.0</gx:coord>
+<when>2012-04-07T07:08:33.048Z</when>
+<gx:coord>26.40363 40.107918 71.0</gx:coord>
+<when>2012-04-07T07:08:34.048Z</when>
+<gx:coord>26.403717 40.108047 71.0</gx:coord>
+<when>2012-04-07T07:08:35.048Z</when>
+<gx:coord>26.403799 40.10817 71.0</gx:coord>
+<when>2012-04-07T07:08:36.048Z</when>
+<gx:coord>26.403879 40.108293 72.0</gx:coord>
+<when>2012-04-07T07:08:37.048Z</when>
+<gx:coord>26.403956 40.108409 72.0</gx:coord>
+<when>2012-04-07T07:08:38.048Z</when>
+<gx:coord>26.404029 40.108521 72.0</gx:coord>
+<when>2012-04-07T07:08:39.048Z</when>
+<gx:coord>26.4041 40.108629 72.0</gx:coord>
+<when>2012-04-07T07:08:40.048Z</when>
+<gx:coord>26.40417 40.108734 72.0</gx:coord>
+<when>2012-04-07T07:08:41.048Z</when>
+<gx:coord>26.404238 40.108835 72.0</gx:coord>
+<when>2012-04-07T07:08:42.048Z</when>
+<gx:coord>26.404305 40.108935 72.0</gx:coord>
+<when>2012-04-07T07:08:43.048Z</when>
+<gx:coord>26.404371 40.109032 72.0</gx:coord>
+<when>2012-04-07T07:08:44.048Z</when>
+<gx:coord>26.404437 40.109128 72.0</gx:coord>
+<when>2012-04-07T07:08:45.048Z</when>
+<gx:coord>26.404502 40.109223 71.0</gx:coord>
+<when>2012-04-07T07:08:46.048Z</when>
+<gx:coord>26.404567 40.109319 72.0</gx:coord>
+<when>2012-04-07T07:08:47.048Z</when>
+<gx:coord>26.404632 40.109416 72.0</gx:coord>
+<when>2012-04-07T07:08:48.048Z</when>
+<gx:coord>26.4047 40.10951 71.0</gx:coord>
+<when>2012-04-07T07:08:49.048Z</when>
+<gx:coord>26.404767 40.109603 71.0</gx:coord>
+<when>2012-04-07T07:08:50.048Z</when>
+<gx:coord>26.404835 40.109694 71.0</gx:coord>
+<when>2012-04-07T07:08:51.048Z</when>
+<gx:coord>26.404901 40.109787 71.0</gx:coord>
+<when>2012-04-07T07:08:52.048Z</when>
+<gx:coord>26.404966 40.10988 71.0</gx:coord>
+<when>2012-04-07T07:08:53.048Z</when>
+<gx:coord>26.40503 40.109972 71.0</gx:coord>
+<when>2012-04-07T07:08:54.048Z</when>
+<gx:coord>26.405091 40.110063 70.0</gx:coord>
+<when>2012-04-07T07:08:55.048Z</when>
+<gx:coord>26.405148 40.11015 70.0</gx:coord>
+<when>2012-04-07T07:08:56.048Z</when>
+<gx:coord>26.405204 40.110234 70.0</gx:coord>
+<when>2012-04-07T07:08:57.048Z</when>
+<gx:coord>26.405258 40.110316 70.0</gx:coord>
+<when>2012-04-07T07:08:58.048Z</when>
+<gx:coord>26.405311 40.110396 70.0</gx:coord>
+<when>2012-04-07T07:08:59.048Z</when>
+<gx:coord>26.405364 40.110474 70.0</gx:coord>
+<when>2012-04-07T07:09:00.048Z</when>
+<gx:coord>26.405411 40.110553 70.0</gx:coord>
+<when>2012-04-07T07:09:01.048Z</when>
+<gx:coord>26.405458 40.110627 70.0</gx:coord>
+<when>2012-04-07T07:09:02.048Z</when>
+<gx:coord>26.405507 40.110698 70.0</gx:coord>
+<when>2012-04-07T07:09:03.048Z</when>
+<gx:coord>26.405549 40.110752 70.0</gx:coord>
+<when>2012-04-07T07:09:04.048Z</when>
+<gx:coord>26.405588 40.110797 70.0</gx:coord>
+<when>2012-04-07T07:09:05.048Z</when>
+<gx:coord>26.405626 40.110841 70.0</gx:coord>
+<when>2012-04-07T07:09:06.048Z</when>
+<gx:coord>26.405663 40.110885 70.0</gx:coord>
+<when>2012-04-07T07:09:07.048Z</when>
+<gx:coord>26.4057 40.11093 70.0</gx:coord>
+<when>2012-04-07T07:09:08.048Z</when>
+<gx:coord>26.405734 40.110976 70.0</gx:coord>
+<when>2012-04-07T07:09:09.048Z</when>
+<gx:coord>26.405762 40.111019 70.0</gx:coord>
+<when>2012-04-07T07:09:10.048Z</when>
+<gx:coord>26.405788 40.111062 70.0</gx:coord>
+<when>2012-04-07T07:09:11.048Z</when>
+<gx:coord>26.40581 40.111105 70.0</gx:coord>
+<when>2012-04-07T07:09:13.048Z</when>
+<gx:coord>26.405841 40.111182 70.0</gx:coord>
+<when>2012-04-07T07:09:15.048Z</when>
+<gx:coord>26.405858 40.111251 70.0</gx:coord>
+<when>2012-04-07T07:09:17.048Z</when>
+<gx:coord>26.405856 40.11132 70.0</gx:coord>
+<when>2012-04-07T07:09:19.048Z</when>
+<gx:coord>26.40585 40.111384 70.0</gx:coord>
+<when>2012-04-07T07:09:21.048Z</when>
+<gx:coord>26.405848 40.111445 70.0</gx:coord>
+<when>2012-04-07T07:09:23.048Z</when>
+<gx:coord>26.405847 40.111504 70.0</gx:coord>
+<when>2012-04-07T07:09:25.048Z</when>
+<gx:coord>26.405846 40.111556 70.0</gx:coord>
+<when>2012-04-07T07:09:37.048Z</when>
+<gx:coord>26.405736 40.11147 70.0</gx:coord>
+<when>2012-04-07T07:09:37.048Z</when>
+<gx:coord>26.405736 40.11147 70.0</gx:coord>
+<when>2012-04-07T07:10:28.048Z</when>
+<gx:coord>26.405736 40.11147 70.0</gx:coord>
+<when>2012-04-07T07:10:29.048Z</when>
+<gx:coord>26.40594 40.111525 70.0</gx:coord>
+<when>2012-04-07T07:10:30.048Z</when>
+<gx:coord>26.406076 40.111563 70.0</gx:coord>
+<when>2012-04-07T07:10:31.048Z</when>
+<gx:coord>26.40624 40.111606 70.0</gx:coord>
+<when>2012-04-07T07:10:32.048Z</when>
+<gx:coord>26.406418 40.111657 70.0</gx:coord>
+<when>2012-04-07T07:10:33.048Z</when>
+<gx:coord>26.406597 40.111715 70.0</gx:coord>
+<when>2012-04-07T07:10:34.048Z</when>
+<gx:coord>26.406772 40.111777 69.0</gx:coord>
+<when>2012-04-07T07:10:35.048Z</when>
+<gx:coord>26.406934 40.111842 69.0</gx:coord>
+<when>2012-04-07T07:10:36.048Z</when>
+<gx:coord>26.407083 40.111907 69.0</gx:coord>
+<when>2012-04-07T07:10:37.048Z</when>
+<gx:coord>26.407218 40.111973 68.0</gx:coord>
+<when>2012-04-07T07:10:38.048Z</when>
+<gx:coord>26.40734 40.11204 68.0</gx:coord>
+<when>2012-04-07T07:10:39.048Z</when>
+<gx:coord>26.407452 40.112109 68.0</gx:coord>
+<when>2012-04-07T07:10:40.048Z</when>
+<gx:coord>26.407556 40.112177 67.0</gx:coord>
+<when>2012-04-07T07:10:41.048Z</when>
+<gx:coord>26.407653 40.112246 67.0</gx:coord>
+<when>2012-04-07T07:10:42.048Z</when>
+<gx:coord>26.407746 40.112317 66.0</gx:coord>
+<when>2012-04-07T07:10:43.048Z</when>
+<gx:coord>26.407835 40.112392 66.0</gx:coord>
+<when>2012-04-07T07:10:44.048Z</when>
+<gx:coord>26.407924 40.112468 66.0</gx:coord>
+<when>2012-04-07T07:10:45.048Z</when>
+<gx:coord>26.408011 40.112546 65.0</gx:coord>
+<when>2012-04-07T07:10:46.048Z</when>
+<gx:coord>26.408099 40.112625 65.0</gx:coord>
+<when>2012-04-07T07:10:47.048Z</when>
+<gx:coord>26.408187 40.112705 65.0</gx:coord>
+<when>2012-04-07T07:10:48.048Z</when>
+<gx:coord>26.408272 40.112787 64.0</gx:coord>
+<when>2012-04-07T07:10:49.048Z</when>
+<gx:coord>26.408358 40.112869 64.0</gx:coord>
+<when>2012-04-07T07:10:50.048Z</when>
+<gx:coord>26.408441 40.112955 64.0</gx:coord>
+<when>2012-04-07T07:10:51.048Z</when>
+<gx:coord>26.408526 40.113042 64.0</gx:coord>
+<when>2012-04-07T07:10:52.048Z</when>
+<gx:coord>26.408615 40.113135 63.0</gx:coord>
+<when>2012-04-07T07:10:53.048Z</when>
+<gx:coord>26.408709 40.113238 63.0</gx:coord>
+<when>2012-04-07T07:10:54.048Z</when>
+<gx:coord>26.408803 40.113344 63.0</gx:coord>
+<when>2012-04-07T07:10:55.048Z</when>
+<gx:coord>26.408896 40.113458 63.0</gx:coord>
+<when>2012-04-07T07:10:56.048Z</when>
+<gx:coord>26.40899 40.113575 63.0</gx:coord>
+<when>2012-04-07T07:10:57.048Z</when>
+<gx:coord>26.409083 40.113696 63.0</gx:coord>
+<when>2012-04-07T07:10:58.048Z</when>
+<gx:coord>26.409176 40.113818 63.0</gx:coord>
+<when>2012-04-07T07:10:59.048Z</when>
+<gx:coord>26.409268 40.113943 63.0</gx:coord>
+<when>2012-04-07T07:11:00.048Z</when>
+<gx:coord>26.40936 40.114069 63.0</gx:coord>
+<when>2012-04-07T07:11:01.048Z</when>
+<gx:coord>26.409453 40.114195 63.0</gx:coord>
+<when>2012-04-07T07:11:02.048Z</when>
+<gx:coord>26.409548 40.114325 63.0</gx:coord>
+<when>2012-04-07T07:11:03.048Z</when>
+<gx:coord>26.409645 40.114456 63.0</gx:coord>
+<when>2012-04-07T07:11:04.048Z</when>
+<gx:coord>26.40974 40.11459 63.0</gx:coord>
+<when>2012-04-07T07:11:05.048Z</when>
+<gx:coord>26.409834 40.114724 63.0</gx:coord>
+<when>2012-04-07T07:11:06.048Z</when>
+<gx:coord>26.409927 40.114861 62.0</gx:coord>
+<when>2012-04-07T07:11:07.048Z</when>
+<gx:coord>26.410019 40.114998 62.0</gx:coord>
+<when>2012-04-07T07:11:08.048Z</when>
+<gx:coord>26.41011 40.115134 62.0</gx:coord>
+<when>2012-04-07T07:11:09.048Z</when>
+<gx:coord>26.410204 40.115269 62.0</gx:coord>
+<when>2012-04-07T07:11:10.048Z</when>
+<gx:coord>26.410292 40.115405 62.0</gx:coord>
+<when>2012-04-07T07:11:11.048Z</when>
+<gx:coord>26.410382 40.115541 61.0</gx:coord>
+<when>2012-04-07T07:11:12.048Z</when>
+<gx:coord>26.410466 40.115643 61.0</gx:coord>
+<when>2012-04-07T07:11:13.048Z</when>
+<gx:coord>26.410567 40.115792 61.0</gx:coord>
+<when>2012-04-07T07:11:14.048Z</when>
+<gx:coord>26.410652 40.115893 61.0</gx:coord>
+<when>2012-04-07T07:11:15.048Z</when>
+<gx:coord>26.410754 40.116036 61.0</gx:coord>
+<when>2012-04-07T07:11:16.048Z</when>
+<gx:coord>26.41084 40.116137 61.0</gx:coord>
+<when>2012-04-07T07:11:17.048Z</when>
+<gx:coord>26.410934 40.116277 60.0</gx:coord>
+<when>2012-04-07T07:11:18.048Z</when>
+<gx:coord>26.411022 40.116377 60.0</gx:coord>
+<when>2012-04-07T07:11:19.048Z</when>
+<gx:coord>26.411111 40.116477 60.0</gx:coord>
+<when>2012-04-07T07:11:20.048Z</when>
+<gx:coord>26.411199 40.116577 60.0</gx:coord>
+<when>2012-04-07T07:11:21.048Z</when>
+<gx:coord>26.411288 40.116677 60.0</gx:coord>
+<when>2012-04-07T07:11:22.048Z</when>
+<gx:coord>26.411376 40.116777 60.0</gx:coord>
+<when>2012-04-07T07:11:38.048Z</when>
+<gx:coord>26.411671 40.116595 57.0</gx:coord>
+<when>2012-04-07T07:11:39.048Z</when>
+<gx:coord>26.411679 40.116503 54.0</gx:coord>
+<when>2012-04-07T07:11:40.048Z</when>
+<gx:coord>26.411706 40.116444 52.0</gx:coord>
+<when>2012-04-07T07:11:41.048Z</when>
+<gx:coord>26.411736 40.116396 51.0</gx:coord>
+<when>2012-04-07T07:11:43.048Z</when>
+<gx:coord>26.411784 40.116317 51.0</gx:coord>
+<when>2012-04-07T07:11:45.048Z</when>
+<gx:coord>26.411819 40.116255 51.0</gx:coord>
+<when>2012-04-07T07:12:09.048Z</when>
+<gx:coord>26.411817 40.116343 48.0</gx:coord>
+<when>2012-04-07T07:12:09.048Z</when>
+<gx:coord>26.411817 40.116343 48.0</gx:coord>
+<when>2012-04-07T07:12:19.048Z</when>
+<gx:coord>26.411817 40.116343 48.0</gx:coord>
+<when>2012-04-07T07:12:20.048Z</when>
+<gx:coord>26.411852 40.116431 49.0</gx:coord>
+<when>2012-04-07T07:12:20.048Z</when>
+<gx:coord>26.411852 40.116431 49.0</gx:coord>
+<when>2012-04-07T07:12:35.048Z</when>
+<gx:coord>26.411852 40.116431 49.0</gx:coord>
+<when>2012-04-07T07:12:36.048Z</when>
+<gx:coord>26.411947 40.116499 49.0</gx:coord>
+<when>2012-04-07T07:12:36.048Z</when>
+<gx:coord>26.411947 40.116499 49.0</gx:coord>
+<when>2012-04-07T07:12:46.048Z</when>
+<gx:coord>26.411947 40.116499 49.0</gx:coord>
+<when>2012-04-07T07:12:47.048Z</when>
+<gx:coord>26.412065 40.116534 50.0</gx:coord>
+<when>2012-04-07T07:12:47.048Z</when>
+<gx:coord>26.412065 40.116534 50.0</gx:coord>
+<when>2012-04-07T07:12:53.048Z</when>
+<gx:coord>26.412065 40.116534 50.0</gx:coord>
+<when>2012-04-07T07:12:54.048Z</when>
+<gx:coord>26.412188 40.1165 50.0</gx:coord>
+<when>2012-04-07T07:12:54.048Z</when>
+<gx:coord>26.412188 40.1165 50.0</gx:coord>
+<when>2012-04-07T07:12:57.048Z</when>
+<gx:coord>26.412188 40.1165 50.0</gx:coord>
+<when>2012-04-07T07:12:58.048Z</when>
+<gx:coord>26.412258 40.116397 51.0</gx:coord>
+<when>2012-04-07T07:12:58.048Z</when>
+<gx:coord>26.412258 40.116397 51.0</gx:coord>
+<when>2012-04-07T07:12:59.048Z</when>
+<gx:coord>26.412258 40.116397 51.0</gx:coord>
+<when>2012-04-07T07:13:02.048Z</when>
+<gx:coord>26.41229 40.116262 51.0</gx:coord>
+<when>2012-04-07T07:13:05.048Z</when>
+<gx:coord>26.4123 40.116155 51.0</gx:coord>
+<when>2012-04-07T07:13:07.048Z</when>
+<gx:coord>26.412309 40.116023 51.0</gx:coord>
+<when>2012-04-07T07:13:08.048Z</when>
+<gx:coord>26.412334 40.115936 51.0</gx:coord>
+<when>2012-04-07T07:13:09.048Z</when>
+<gx:coord>26.412371 40.115842 54.0</gx:coord>
+<when>2012-04-07T07:13:10.048Z</when>
+<gx:coord>26.412408 40.115743 55.0</gx:coord>
+<when>2012-04-07T07:13:11.048Z</when>
+<gx:coord>26.412447 40.115642 57.0</gx:coord>
+<when>2012-04-07T07:13:12.048Z</when>
+<gx:coord>26.412489 40.115517 60.0</gx:coord>
+<when>2012-04-07T07:13:13.048Z</when>
+<gx:coord>26.412526 40.11539 60.0</gx:coord>
+<when>2012-04-07T07:13:14.048Z</when>
+<gx:coord>26.412552 40.115271 63.0</gx:coord>
+<when>2012-04-07T07:13:15.048Z</when>
+<gx:coord>26.412568 40.115166 65.0</gx:coord>
+<when>2012-04-07T07:13:16.048Z</when>
+<gx:coord>26.412568 40.115076 65.0</gx:coord>
+<when>2012-04-07T07:13:17.048Z</when>
+<gx:coord>26.412561 40.115 65.0</gx:coord>
+<when>2012-04-07T07:13:18.048Z</when>
+<gx:coord>26.412551 40.114932 65.0</gx:coord>
+<when>2012-04-07T07:13:19.048Z</when>
+<gx:coord>26.412537 40.114871 65.0</gx:coord>
+<when>2012-04-07T07:13:20.048Z</when>
+<gx:coord>26.412523 40.114814 65.0</gx:coord>
+<when>2012-04-07T07:13:21.048Z</when>
+<gx:coord>26.412507 40.114762 65.0</gx:coord>
+<when>2012-04-07T07:13:23.048Z</when>
+<gx:coord>26.412474 40.114696 65.0</gx:coord>
+<when>2012-04-07T07:13:25.048Z</when>
+<gx:coord>26.412441 40.114631 65.0</gx:coord>
+<when>2012-04-07T07:13:26.048Z</when>
+<gx:coord>26.412326 40.114566 67.0</gx:coord>
+<when>2012-04-07T07:13:27.048Z</when>
+<gx:coord>26.412262 40.114472 68.0</gx:coord>
+<when>2012-04-07T07:13:29.048Z</when>
+<gx:coord>26.412154 40.114352 69.0</gx:coord>
+<when>2012-04-07T07:13:32.048Z</when>
+<gx:coord>26.411962 40.114187 70.0</gx:coord>
+<when>2012-04-07T07:13:33.048Z</when>
+<gx:coord>26.411848 40.114111 70.0</gx:coord>
+<when>2012-04-07T07:13:34.048Z</when>
+<gx:coord>26.411675 40.114017 71.0</gx:coord>
+<when>2012-04-07T07:13:35.048Z</when>
+<gx:coord>26.411624 40.113972 71.0</gx:coord>
+<when>2012-04-07T07:13:36.048Z</when>
+<gx:coord>26.411574 40.113926 71.0</gx:coord>
+<when>2012-04-07T07:13:37.048Z</when>
+<gx:coord>26.411408 40.113833 70.0</gx:coord>
+<when>2012-04-07T07:13:38.048Z</when>
+<gx:coord>26.411269 40.113734 70.0</gx:coord>
+<when>2012-04-07T07:13:39.048Z</when>
+<gx:coord>26.411159 40.113634 70.0</gx:coord>
+<when>2012-04-07T07:13:40.048Z</when>
+<gx:coord>26.411065 40.113535 71.0</gx:coord>
+<when>2012-04-07T07:13:41.048Z</when>
+<gx:coord>26.410987 40.113434 72.0</gx:coord>
+<when>2012-04-07T07:13:42.048Z</when>
+<gx:coord>26.410915 40.113335 72.0</gx:coord>
+<when>2012-04-07T07:13:43.048Z</when>
+<gx:coord>26.410846 40.113239 73.0</gx:coord>
+<when>2012-04-07T07:13:44.048Z</when>
+<gx:coord>26.41078 40.113144 73.0</gx:coord>
+<when>2012-04-07T07:13:45.048Z</when>
+<gx:coord>26.410715 40.113053 73.0</gx:coord>
+<when>2012-04-07T07:13:46.048Z</when>
+<gx:coord>26.410653 40.112963 74.0</gx:coord>
+<when>2012-04-07T07:13:47.048Z</when>
+<gx:coord>26.410594 40.11287 74.0</gx:coord>
+<when>2012-04-07T07:13:48.048Z</when>
+<gx:coord>26.410535 40.112778 74.0</gx:coord>
+<when>2012-04-07T07:13:49.048Z</when>
+<gx:coord>26.410478 40.112686 74.0</gx:coord>
+<when>2012-04-07T07:13:50.048Z</when>
+<gx:coord>26.410426 40.112592 74.0</gx:coord>
+<when>2012-04-07T07:13:51.048Z</when>
+<gx:coord>26.410372 40.112498 74.0</gx:coord>
+<when>2012-04-07T07:13:52.048Z</when>
+<gx:coord>26.410322 40.112403 74.0</gx:coord>
+<when>2012-04-07T07:13:53.048Z</when>
+<gx:coord>26.410271 40.112309 74.0</gx:coord>
+<when>2012-04-07T07:13:54.048Z</when>
+<gx:coord>26.410219 40.112215 74.0</gx:coord>
+<when>2012-04-07T07:13:55.048Z</when>
+<gx:coord>26.410168 40.11212 74.0</gx:coord>
+<when>2012-04-07T07:13:56.048Z</when>
+<gx:coord>26.410115 40.112043 74.0</gx:coord>
+<when>2012-04-07T07:13:57.048Z</when>
+<gx:coord>26.410092 40.111944 75.0</gx:coord>
+<when>2012-04-07T07:13:58.048Z</when>
+<gx:coord>26.410066 40.11184 75.0</gx:coord>
+<when>2012-04-07T07:13:59.048Z</when>
+<gx:coord>26.41004 40.111741 75.0</gx:coord>
+<when>2012-04-07T07:14:00.048Z</when>
+<gx:coord>26.410018 40.111642 76.0</gx:coord>
+<when>2012-04-07T07:14:01.048Z</when>
+<gx:coord>26.409997 40.111538 76.0</gx:coord>
+<when>2012-04-07T07:14:02.048Z</when>
+<gx:coord>26.409978 40.111435 75.0</gx:coord>
+<when>2012-04-07T07:14:03.048Z</when>
+<gx:coord>26.409972 40.111332 75.0</gx:coord>
+<when>2012-04-07T07:14:04.048Z</when>
+<gx:coord>26.409969 40.111228 75.0</gx:coord>
+<when>2012-04-07T07:14:05.048Z</when>
+<gx:coord>26.409968 40.111124 75.0</gx:coord>
+<when>2012-04-07T07:14:06.048Z</when>
+<gx:coord>26.409972 40.111016 74.0</gx:coord>
+<when>2012-04-07T07:14:07.048Z</when>
+<gx:coord>26.409977 40.110908 74.0</gx:coord>
+<when>2012-04-07T07:14:08.048Z</when>
+<gx:coord>26.409988 40.110801 74.0</gx:coord>
+<when>2012-04-07T07:14:09.048Z</when>
+<gx:coord>26.410002 40.110694 74.0</gx:coord>
+<when>2012-04-07T07:14:10.048Z</when>
+<gx:coord>26.410016 40.110589 74.0</gx:coord>
+<when>2012-04-07T07:14:11.048Z</when>
+<gx:coord>26.41003 40.110489 74.0</gx:coord>
+<when>2012-04-07T07:14:12.048Z</when>
+<gx:coord>26.410046 40.11039 74.0</gx:coord>
+<when>2012-04-07T07:14:13.048Z</when>
+<gx:coord>26.410069 40.110326 74.0</gx:coord>
+<when>2012-04-07T07:14:14.048Z</when>
+<gx:coord>26.410088 40.110264 74.0</gx:coord>
+<when>2012-04-07T07:14:15.048Z</when>
+<gx:coord>26.410111 40.110213 74.0</gx:coord>
+<when>2012-04-07T07:14:16.048Z</when>
+<gx:coord>26.410132 40.110168 75.0</gx:coord>
+<when>2012-04-07T07:14:17.048Z</when>
+<gx:coord>26.410154 40.110125 75.0</gx:coord>
+<when>2012-04-07T07:14:19.048Z</when>
+<gx:coord>26.410243 40.110084 75.0</gx:coord>
+<when>2012-04-07T07:14:20.048Z</when>
+<gx:coord>26.410307 40.110087 76.0</gx:coord>
+<when>2012-04-07T07:14:21.048Z</when>
+<gx:coord>26.410369 40.110091 76.0</gx:coord>
+<when>2012-04-07T07:14:22.048Z</when>
+<gx:coord>26.410429 40.110092 76.0</gx:coord>
+<when>2012-04-07T07:14:23.048Z</when>
+<gx:coord>26.410509 40.110087 76.0</gx:coord>
+<when>2012-04-07T07:14:24.048Z</when>
+<gx:coord>26.410586 40.11008 76.0</gx:coord>
+<when>2012-04-07T07:14:25.048Z</when>
+<gx:coord>26.410664 40.110071 76.0</gx:coord>
+<when>2012-04-07T07:14:26.048Z</when>
+<gx:coord>26.410744 40.110061 76.0</gx:coord>
+<when>2012-04-07T07:14:27.048Z</when>
+<gx:coord>26.410821 40.110051 76.0</gx:coord>
+<when>2012-04-07T07:14:28.048Z</when>
+<gx:coord>26.410904 40.110039 76.0</gx:coord>
+<when>2012-04-07T07:14:29.048Z</when>
+<gx:coord>26.410992 40.110027 76.0</gx:coord>
+<when>2012-04-07T07:14:30.048Z</when>
+<gx:coord>26.411086 40.110014 77.0</gx:coord>
+<when>2012-04-07T07:14:31.048Z</when>
+<gx:coord>26.411186 40.110001 77.0</gx:coord>
+<when>2012-04-07T07:14:32.048Z</when>
+<gx:coord>26.411282 40.109985 77.0</gx:coord>
+<when>2012-04-07T07:14:33.048Z</when>
+<gx:coord>26.411378 40.109969 78.0</gx:coord>
+<when>2012-04-07T07:14:34.048Z</when>
+<gx:coord>26.411478 40.109953 78.0</gx:coord>
+<when>2012-04-07T07:14:35.048Z</when>
+<gx:coord>26.411576 40.109938 78.0</gx:coord>
+<when>2012-04-07T07:14:36.048Z</when>
+<gx:coord>26.411671 40.109922 79.0</gx:coord>
+<when>2012-04-07T07:14:37.048Z</when>
+<gx:coord>26.411769 40.109907 79.0</gx:coord>
+<when>2012-04-07T07:14:38.048Z</when>
+<gx:coord>26.411846 40.109891 79.0</gx:coord>
+<when>2012-04-07T07:14:39.048Z</when>
+<gx:coord>26.411944 40.10988 79.0</gx:coord>
+<when>2012-04-07T07:14:40.048Z</when>
+<gx:coord>26.412022 40.109865 79.0</gx:coord>
+<when>2012-04-07T07:14:41.048Z</when>
+<gx:coord>26.41212 40.109856 80.0</gx:coord>
+<when>2012-04-07T07:14:42.048Z</when>
+<gx:coord>26.412219 40.109848 80.0</gx:coord>
+<when>2012-04-07T07:14:43.048Z</when>
+<gx:coord>26.412316 40.10984 80.0</gx:coord>
+<when>2012-04-07T07:14:44.048Z</when>
+<gx:coord>26.412411 40.109831 81.0</gx:coord>
+<when>2012-04-07T07:14:45.048Z</when>
+<gx:coord>26.412491 40.109816 81.0</gx:coord>
+<when>2012-04-07T07:14:46.048Z</when>
+<gx:coord>26.412571 40.1098 81.0</gx:coord>
+<when>2012-04-07T07:14:47.048Z</when>
+<gx:coord>26.412651 40.109785 81.0</gx:coord>
+<when>2012-04-07T07:14:48.048Z</when>
+<gx:coord>26.412731 40.10977 81.0</gx:coord>
+<when>2012-04-07T07:14:49.048Z</when>
+<gx:coord>26.412811 40.109755 81.0</gx:coord>
+<when>2012-04-07T07:14:50.048Z</when>
+<gx:coord>26.412891 40.10974 81.0</gx:coord>
+<when>2012-04-07T07:14:51.048Z</when>
+<gx:coord>26.41297 40.109725 81.0</gx:coord>
+<when>2012-04-07T07:14:52.048Z</when>
+<gx:coord>26.41305 40.10971 81.0</gx:coord>
+<ExtendedData>
+<SchemaData schemaUrl="#schema">
+</SchemaData>
+</ExtendedData>
+</gx:Track>
+<gx:Track>
+<when>2012-04-07T07:15:22.048Z</when>
+<gx:coord>26.417573 40.110464 81.0</gx:coord>
+<when>2012-04-07T07:15:22.048Z</when>
+<gx:coord>26.417573 40.110464 81.0</gx:coord>
+<when>2012-04-07T07:15:24.048Z</when>
+<gx:coord>26.417573 40.110464 81.0</gx:coord>
+<when>2012-04-07T07:15:25.048Z</when>
+<gx:coord>26.417417 40.110564 80.0</gx:coord>
+<when>2012-04-07T07:15:35.048Z</when>
+<gx:coord>26.417324 40.110651 81.0</gx:coord>
+<when>2012-04-07T07:15:35.048Z</when>
+<gx:coord>26.417324 40.110651 81.0</gx:coord>
+<when>2012-04-07T07:15:46.048Z</when>
+<gx:coord>26.417324 40.110651 81.0</gx:coord>
+<when>2012-04-07T07:15:50.048Z</when>
+<gx:coord>26.41737 40.110687 85.0</gx:coord>
+<when>2012-04-07T07:15:52.048Z</when>
+<gx:coord>26.417433 40.110724 94.0</gx:coord>
+<when>2012-04-07T07:15:54.048Z</when>
+<gx:coord>26.417513 40.11078 105.0</gx:coord>
+<when>2012-04-07T07:15:55.048Z</when>
+<gx:coord>26.417556 40.110811 109.0</gx:coord>
+<when>2012-04-07T07:15:56.048Z</when>
+<gx:coord>26.417604 40.110843 113.0</gx:coord>
+<when>2012-04-07T07:15:57.048Z</when>
+<gx:coord>26.417656 40.110874 115.0</gx:coord>
+<when>2012-04-07T07:15:58.048Z</when>
+<gx:coord>26.417712 40.110905 118.0</gx:coord>
+<when>2012-04-07T07:15:59.048Z</when>
+<gx:coord>26.417771 40.110936 120.0</gx:coord>
+<when>2012-04-07T07:16:00.048Z</when>
+<gx:coord>26.417831 40.110968 121.0</gx:coord>
+<when>2012-04-07T07:16:01.048Z</when>
+<gx:coord>26.417894 40.111 123.0</gx:coord>
+<when>2012-04-07T07:16:02.048Z</when>
+<gx:coord>26.417961 40.11103 124.0</gx:coord>
+<when>2012-04-07T07:16:03.048Z</when>
+<gx:coord>26.418033 40.111061 125.0</gx:coord>
+<when>2012-04-07T07:16:04.048Z</when>
+<gx:coord>26.418109 40.111089 126.0</gx:coord>
+<when>2012-04-07T07:16:05.048Z</when>
+<gx:coord>26.41819 40.111117 127.0</gx:coord>
+<when>2012-04-07T07:16:06.048Z</when>
+<gx:coord>26.418274 40.111148 127.0</gx:coord>
+<when>2012-04-07T07:16:07.048Z</when>
+<gx:coord>26.418367 40.111178 128.0</gx:coord>
+<when>2012-04-07T07:16:08.048Z</when>
+<gx:coord>26.418468 40.11121 129.0</gx:coord>
+<when>2012-04-07T07:16:09.048Z</when>
+<gx:coord>26.418579 40.111245 130.0</gx:coord>
+<when>2012-04-07T07:16:10.048Z</when>
+<gx:coord>26.418692 40.11128 130.0</gx:coord>
+<when>2012-04-07T07:16:11.048Z</when>
+<gx:coord>26.418808 40.111317 131.0</gx:coord>
+<when>2012-04-07T07:16:12.048Z</when>
+<gx:coord>26.418928 40.111356 132.0</gx:coord>
+<when>2012-04-07T07:16:13.048Z</when>
+<gx:coord>26.419054 40.111397 132.0</gx:coord>
+<when>2012-04-07T07:16:14.048Z</when>
+<gx:coord>26.419182 40.11144 133.0</gx:coord>
+<when>2012-04-07T07:16:15.048Z</when>
+<gx:coord>26.419312 40.111484 134.0</gx:coord>
+<when>2012-04-07T07:16:16.048Z</when>
+<gx:coord>26.419442 40.111528 134.0</gx:coord>
+<when>2012-04-07T07:16:17.048Z</when>
+<gx:coord>26.419572 40.111572 135.0</gx:coord>
+<when>2012-04-07T07:16:18.048Z</when>
+<gx:coord>26.4197 40.111617 136.0</gx:coord>
+<when>2012-04-07T07:16:19.048Z</when>
+<gx:coord>26.419825 40.111666 136.0</gx:coord>
+<when>2012-04-07T07:16:20.048Z</when>
+<gx:coord>26.419941 40.111718 137.0</gx:coord>
+<when>2012-04-07T07:16:21.048Z</when>
+<gx:coord>26.420052 40.111775 137.0</gx:coord>
+<when>2012-04-07T07:16:22.048Z</when>
+<gx:coord>26.420156 40.111839 138.0</gx:coord>
+<when>2012-04-07T07:16:23.048Z</when>
+<gx:coord>26.420261 40.111909 138.0</gx:coord>
+<when>2012-04-07T07:16:24.048Z</when>
+<gx:coord>26.420355 40.111987 139.0</gx:coord>
+<when>2012-04-07T07:16:25.048Z</when>
+<gx:coord>26.420438 40.112069 139.0</gx:coord>
+<when>2012-04-07T07:16:26.048Z</when>
+<gx:coord>26.420515 40.112156 140.0</gx:coord>
+<when>2012-04-07T07:16:27.048Z</when>
+<gx:coord>26.420587 40.112246 140.0</gx:coord>
+<when>2012-04-07T07:16:28.048Z</when>
+<gx:coord>26.420656 40.112339 141.0</gx:coord>
+<when>2012-04-07T07:16:29.048Z</when>
+<gx:coord>26.420723 40.112434 141.0</gx:coord>
+<when>2012-04-07T07:16:30.048Z</when>
+<gx:coord>26.420789 40.112528 142.0</gx:coord>
+<when>2012-04-07T07:16:31.048Z</when>
+<gx:coord>26.420854 40.112621 142.0</gx:coord>
+<when>2012-04-07T07:16:32.048Z</when>
+<gx:coord>26.420921 40.112711 143.0</gx:coord>
+<when>2012-04-07T07:16:33.048Z</when>
+<gx:coord>26.420988 40.1128 143.0</gx:coord>
+<when>2012-04-07T07:16:34.048Z</when>
+<gx:coord>26.421057 40.11289 143.0</gx:coord>
+<when>2012-04-07T07:16:35.048Z</when>
+<gx:coord>26.421129 40.112978 144.0</gx:coord>
+<when>2012-04-07T07:16:36.048Z</when>
+<gx:coord>26.421201 40.113065 144.0</gx:coord>
+<when>2012-04-07T07:16:37.048Z</when>
+<gx:coord>26.421273 40.113151 145.0</gx:coord>
+<when>2012-04-07T07:16:38.048Z</when>
+<gx:coord>26.421342 40.113236 145.0</gx:coord>
+<when>2012-04-07T07:16:39.048Z</when>
+<gx:coord>26.421408 40.113316 146.0</gx:coord>
+<when>2012-04-07T07:16:40.048Z</when>
+<gx:coord>26.42147 40.113392 146.0</gx:coord>
+<when>2012-04-07T07:16:41.048Z</when>
+<gx:coord>26.421525 40.113464 146.0</gx:coord>
+<when>2012-04-07T07:16:42.048Z</when>
+<gx:coord>26.421578 40.113532 147.0</gx:coord>
+<when>2012-04-07T07:16:43.048Z</when>
+<gx:coord>26.421627 40.113598 147.0</gx:coord>
+<when>2012-04-07T07:16:44.048Z</when>
+<gx:coord>26.421674 40.113661 147.0</gx:coord>
+<when>2012-04-07T07:16:45.048Z</when>
+<gx:coord>26.421713 40.113714 148.0</gx:coord>
+<when>2012-04-07T07:16:46.048Z</when>
+<gx:coord>26.421748 40.113762 148.0</gx:coord>
+<when>2012-04-07T07:16:47.048Z</when>
+<gx:coord>26.421781 40.113808 149.0</gx:coord>
+<when>2012-04-07T07:16:48.048Z</when>
+<gx:coord>26.421813 40.11385 149.0</gx:coord>
+<when>2012-04-07T07:16:49.048Z</when>
+<gx:coord>26.421843 40.113891 150.0</gx:coord>
+<when>2012-04-07T07:16:51.048Z</when>
+<gx:coord>26.42187 40.113965 150.0</gx:coord>
+<when>2012-04-07T07:16:53.048Z</when>
+<gx:coord>26.421897 40.114024 150.0</gx:coord>
+<ExtendedData>
+<SchemaData schemaUrl="#schema">
+</SchemaData>
+</ExtendedData>
+</gx:Track>
+</gx:MultiTrack>
+</Placemark>
+<Placemark>
+<description><![CDATA[Android'de <a href='http://www.google.com/mobile/mytracks'>My Tracks</a> ile oluşturulmuştur.<p>Toplam mesafe: 5,53 km (3,4 mil)<br>Toplam süre: 18:55<br>Hareket süresi: 09:36<br>Ortalama hız: 17,52 km/sa (10,9 mil/sa)<br>Ortalama hareket hızı: 34,55 km/sa (21,5 mil/sa)<br>Maks. hız: 55,76 km/sa (34,7 mil/sa)<br>Ortalama tempo: 3,42 dk/km (5,5 dk/mil)<br>Ortalama tempo (hareket halinde): 1,74 dk/km (2,8 dk/mil)<br>Min. tempo: 1,08 dk/km (1,7 dk/mil)<br>Maks. irtifa: 146 m (480 fit)<br>Min. irtifa: 0 m (0 fit)<br>İrtifa kazancı: 139 m (455 fit)<br>Maks. eğim: %31<br>Min. eğim: %-4<br>Kayıt zamanı: 06 04 2012 10:00<br>Etkinlik türü: -<br>]]></description>
+<name><![CDATA[06 04 2012 10:00 (Bitiş)]]></name>
+<styleUrl>#end</styleUrl>
+<Point>
+<coordinates>26.421897,40.114024,150.0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

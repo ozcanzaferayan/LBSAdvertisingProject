@@ -1,0 +1,41 @@
+﻿<Window x:Class="WpfApplication3.GeoLocationTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+        Title="GeoLocationTest" Height="600" Width="1200">
+    <Window.Resources>
+        <Style x:Key="styleDosyaExpander" TargetType="Expander">
+            <Setter Property="IsExpanded" Value="True"/>
+            <Setter Property="Background" Value="Gainsboro"/>
+            <Setter Property="ExpandDirection" Value="Right"/>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="0 1 1 1"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Expander Name="expanderAddresses" Grid.Column="0" Style="{StaticResource styleDosyaExpander}">
+            <Expander.Header>
+                <TextBlock Text="Genişlet" Name="txtExpanderHeader">
+                    <TextBlock.LayoutTransform>
+                        <RotateTransform Angle="90" />
+                    </TextBlock.LayoutTransform>
+                </TextBlock>
+            </Expander.Header>
+            <ListBox Margin="0 20 20 20" VerticalAlignment="Top" Name="lstBoxAddresses" Width="400" Height="525">
+                
+            </ListBox>
+        </Expander>
+        <m:Map Grid.Column="1" Center="41.024525784454, 29.0050039343242,0.0000" ZoomLevel="11.000" Name="MyMap" CredentialsProvider="AsTa4r991xLVZ7qJ9o2mJ374XZZyNxob6tJ2rJkzKqn2xNR7eifHRhsWhckgtkin" MouseDoubleClick="MyMap_MouseDoubleClick">
+            <m:Map.Children>
+                <m:MapLayer Name="mapTracksLayer"/>
+                <m:MapLayer Name="mapShapeLayer"/>
+                <m:MapLayer Name="mapPushPinLayer"/>
+            </m:Map.Children>
+        </m:Map>
+        <Canvas Grid.Column="1" Name="myCanvas"/>
+    </Grid>
+</Window>

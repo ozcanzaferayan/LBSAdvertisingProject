@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplication3.QuadTreeMap"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+        Title="QuadTreeMap" Height="700" Width="1000">
+    <Grid>
+        
+        <m:Map Grid.Column="0" Center="41.024525784454, 29.0050039343242,0.0000" ZoomLevel="11.000" Name="MyMap" CredentialsProvider="AsTa4r991xLVZ7qJ9o2mJ374XZZyNxob6tJ2rJkzKqn2xNR7eifHRhsWhckgtkin" MouseDoubleClick="MyMap_MouseDoubleClick">
+            <m:Map.Children>
+                <m:MapLayer Name="mapTracksLayer"/>
+                <m:MapLayer Name="mapShapeLayer"/>
+                <m:MapLayer Name="mapPushPinLayer"/>
+            </m:Map.Children>
+        </m:Map>
+        <Canvas Grid.Column="0" Name="myCanvas">
+        </Canvas>
+
+    </Grid>
+</Window>

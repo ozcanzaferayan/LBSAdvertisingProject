@@ -1,0 +1,90 @@
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Emgu.CV.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Emgu.CV.UI.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Emgu.Util.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\ZedGraph.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Emgu.CV.xml
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Emgu.CV.UI.xml
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Emgu.Util.xml
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Accord.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Accord.Imaging.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Accord.MachineLearning.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Accord.Math.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Accord.Statistics.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\AForge.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\AForge.Imaging.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\AForge.Math.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\SharpKml.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\SharpKml.pdb
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\SharpKml.xml
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WpfApplication3\WpfApplication3\bin\Debug\Emgu.Util.pdb
+C:\LBS\projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\LBS\projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\LBS\projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\MainWindow.baml
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\App.g.cs
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\ZedGraph.dll
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Ionic.Zip.Reduced.dll
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Emgu.CV.xml
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Emgu.CV.UI.xml
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Emgu.Util.pdb
+C:\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Emgu.Util.xml
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\GeoLocationTest.baml
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\GeoLocationTest.g.cs
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\QuadTreeTest.baml
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\QuadTreeTest.g.cs
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\TrieTest.baml
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\TrieTest.g.cs
+C:\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3_Content.g.cs
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\ZedGraph.dll
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Ionic.Zip.Reduced.dll
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Emgu.CV.xml
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Emgu.CV.UI.xml
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Emgu.Util.pdb
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\bin\Debug\Emgu.Util.xml
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\GeoLocationTest.baml
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\MainWindow.baml
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\QuadTreeTest.baml
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\TrieTest.baml
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\GeoLocationTest.g.cs
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\QuadTreeTest.g.cs
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\TrieTest.g.cs
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\App.g.cs
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3_Content.g.cs
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\yedek\Projeler\LBS\projects\Median_filters\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
